@@ -1,4 +1,4 @@
-Synchronizer_Token_Patterns
+# Synchronizer_Token_Patterns
 
 Copy the "token_synchronizer" folder into your "www" directory, and access via http://localhost/token_synchronizer/login.php
 
