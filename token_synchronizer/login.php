@@ -2,7 +2,7 @@
 <html>
 
 <head>
-	<title>Cross Site Request Foregery Protection using Synchronizer Token Patterns</title>
+	<title>Synchronizer Token Patterns in CSRF Protection</title>
 	<link rel="stylesheet" href="styles.css">
 </head>
 

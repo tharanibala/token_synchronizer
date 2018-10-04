@@ -24,7 +24,7 @@
 <html>
 
 <head>
-	<title>Cross Site Request Foregery Protection using Synchronizer Token Patterns</title>
+	<title>Synchronizer Token Patterns in CSRF Protection</title>
 	<link rel="stylesheet" href="styles.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script>
