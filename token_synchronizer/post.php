@@ -52,8 +52,8 @@
 <div class="container">
   <form action="post_results.php" method="post">
 
-    <label for="fname"><b>Name<b></label>
-    <input type="text" id="fname" name="firstname" placeholder="Your name.." required>
+    <label for="name"><b>Name<b></label>
+    <input type="text" id="name" name="name" placeholder="Your name.." required>
 
     <label for="post">Post</label>
     <textarea id="post" name="post" placeholder="Write something.."  required></textarea>
